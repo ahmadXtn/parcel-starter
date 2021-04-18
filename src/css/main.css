@@ -1,0 +1,23 @@
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+h2{
+  color: blueviolet;
+  transform: scale(0.5);
+}
+
+::placeholder {
+  color: gray;
+}
+
+.image {
+  background-image: url('../assets//images/_HYHtD8F.jpg');
+}
+@media (min-resolution: 2dppx) {
+  .image {
+    background-image: url('../assets//images/_HYHtD8F.jpg');
+  }
+}
